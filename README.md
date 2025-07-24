@@ -7,8 +7,8 @@ A data visualization project that explores the *impact of social media on studen
 ## 🧠 Project Objective
 
 This project was built to:
-- Analyze the relationship between *social media usage* and *mental health, **academic performance, and **sleep patterns* among students
-- Identify trends across *academic levels, **genders, and **relationship statuses*
+- Analyze the relationship between social media usage and mental health, academic performance, and sleep patterns among students
+- Identify trends across academic levels, genders, and relationship statuses
 - Present the findings through an *interactive Power BI dashboard* for easy exploration and storytelling
 
 ---
