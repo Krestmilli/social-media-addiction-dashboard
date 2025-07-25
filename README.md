@@ -8,8 +8,8 @@ An interactive data visualization project that explores the *impact of social me
 
 To explore and visualize:
 - The *relationship between social media behavior and student wellbeing*
-- Patterns by *academic level, **gender, and **relationship status*
-- Insights that can guide *policy, awareness campaigns, or **student support initiatives*
+- Patterns by *academic level*, *gender*, and *relationship status*
+- Insights that can guide *policy, awareness campaigns, or student support initiatives*
 
 ---
 
@@ -115,7 +115,7 @@ Based on the insights, here are *recommendations*:
 Data Analyst | Passionate About Turning Data Into Insightful Stories  
 
 💼 *About Me:*  
-I’m a data analyst with a background in accounting and strong skills in *Excel, **Power BI, and **data storytelling*. I enjoy uncovering patterns, visualizing insights, and creating dashboards that drive decisions.
+I’m a data analyst with a background in accounting and strong skills in *Excel, Power BI, and data storytelling*. I enjoy uncovering patterns, visualizing insights, and creating dashboards that drive decisions.
 
 🛠 *Core Tools & Skills:*
 - Microsoft Excel (data cleaning, transformation)
