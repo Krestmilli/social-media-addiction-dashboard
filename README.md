@@ -33,9 +33,9 @@ To explore and visualize:
 
 ## 📊 Analytical Approach
 
-### 🔍 1. Descriptive – What’s happening?
+### 🔍 1.  What’s happening?
 
-We observed the *current state of social media addiction* across various student demographics:
+I observed the *current state of social media addiction* across various student demographics:
 
 | Metric                            | Value              |
 |----------------------------------|--------------------|
@@ -49,9 +49,9 @@ We observed the *current state of social media addiction* across various student
 
 ---
 
-### 🧠 2. Diagnostic – Why is it happening?
+### 🧠 2.  Why is it happening?
 
-We dug deeper to *understand the causes behind patterns*:
+I dug deeper to *understand the causes behind patterns*:
 
 - *High addiction scores in younger students* likely due to:
   - Peer pressure
@@ -69,7 +69,7 @@ We dug deeper to *understand the causes behind patterns*:
 
 ---
 
-### 🔮 3. Predictive – What might happen next?
+### 🔮 3. What might happen next?
 
 If current trends continue:
 
@@ -80,7 +80,7 @@ If current trends continue:
 
 ---
 
-### 💡 4. Prescriptive – What should we do?
+### 💡 4. What should we do?
 
 Based on the insights, here are *recommendations*:
 
@@ -108,19 +108,6 @@ Based on the insights, here are *recommendations*:
 
 ---
 
-## 👤 Author
-
-*Ifeanyi Eric Okoronkwo*  
-📍 Enugu, Nigeria (Open to relocation)  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/ifeanyieric)
-
----
-
-## 💬 Feedback or Questions?
-
-Feel free to open an issue or reach out on LinkedIn. I welcome collaborations, discussions, and ideas to improve this project!
-
----
 
 ## 👨‍💻 Author
 
@@ -145,3 +132,8 @@ Internships, freelance projects, and full-time roles in:
 - Data Analysis  
 - Business Intelligence  
 - Reporting & Visualization
+
+
+## 💬 Feedback or Questions?
+
+Feel free to open an issue or reach out on LinkedIn. I welcome collaborations, discussions, and ideas to improve this project!
