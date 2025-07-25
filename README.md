@@ -1,15 +1,25 @@
 # 📊 Social Media Addiction & Student Wellbeing Dashboard
 
-A data visualization project that explores the *impact of social media on students' wellbeing*, academic performance, sleep quality, mental health, and relationship dynamics. This analysis offers data-driven insights into how platforms like WhatsApp, Snapchat, and TikTok affect daily life and academic outcomes.
+An interactive data visualization project that explores the *impact of social media on students' mental health, academic performance, sleep quality, and relationships*. This dashboard analyzes usage patterns across platforms like WhatsApp, Snapchat, and TikTok, providing rich, actionable insights.
 
 ---
 
 ## 🧠 Project Objective
 
-This project was built to:
-- Analyze the relationship between social media usage and mental health, academic performance, and sleep patterns among students
-- Identify trends across academic levels, genders, and relationship statuses
-- Present the findings through an *interactive Power BI dashboard* for easy exploration and storytelling
+To explore and visualize:
+- The *relationship between social media behavior and student wellbeing*
+- Patterns by *academic level, **gender, and **relationship status*
+- Insights that can guide *policy, awareness campaigns, or **student support initiatives*
+
+---
+
+## 🛠 Tools & Technologies
+
+| Tool                | Use                             |
+|---------------------|----------------------------------|
+| Power BI Desktop    | Data visualization & dashboarding |
+| Microsoft Excel     | Data cleaning & preprocessing    |
+| Kaggle              | Data source (CSV dataset)        |
 
 ---
 
@@ -17,99 +27,98 @@ This project was built to:
 
 - *Dataset:* Social Media Addiction Dataset – Kaggle  
 - *Format:* CSV  
-- *Preprocessing:* Microsoft Excel (data cleaning, restructuring)
+- *Preprocessing:* Handled in Microsoft Excel
 
 ---
 
-## 🛠 Tools & Technologies
+## 📊 Analytical Approach
 
-- 📊 *Microsoft Power BI Desktop* – for visualization and dashboarding  
-- 📈 *Microsoft Excel* – for data preprocessing and formatting  
-- 🌐 *Kaggle* – as the dataset source
+### 🔍 1. Descriptive – What’s happening?
 
----
+We observed the *current state of social media addiction* across various student demographics:
 
-## 📌 Key Insights Summary
+| Metric                            | Value              |
+|----------------------------------|--------------------|
+| Average Addiction Score          | 6.44 / 10          |
+| Avg Daily Social Media Usage     | 4.92 hours         |
+| Avg Sleep Hours                  | 6.87 hours         |
+| Students reporting academic impact | 64.26%           |
+| Most Addictive Platforms         | WhatsApp, Snapchat, TikTok |
 
-- *Avg Addiction Score:* 6.44 / 10  
-- *Avg Daily Social Media Usage:* 4.92 hours  
-- *Avg Sleep Hours:* 6.87 hours  
-- *64.26%* of students report social media negatively affects academics  
-- *WhatsApp, Snapchat, and TikTok* rank as the most addictive platforms  
-- *Mental health declines* as social media use increases  
-- Students in *complicated relationships* sleep the least (5.3 hrs avg)
+🟢 Observation: High schoolers are most addicted (8.0 score), and students in complicated relationships sleep the least (5.3 hrs).
 
 ---
 
-## 📊 Visual Breakdown
+### 🧠 2. Diagnostic – Why is it happening?
 
-### 1. Most Addictive Platforms
+We dug deeper to *understand the causes behind patterns*:
 
-*Type:* Bar Chart  
-*What it Shows:*  
-Displays average addiction scores for each platform.  
-*Key Insight:*  
-WhatsApp, Snapchat, and TikTok have the *highest addiction levels (7.4–7.5)*. This suggests strong engagement and habit-forming behavior in younger users.
+- *High addiction scores in younger students* likely due to:
+  - Peer pressure
+  - Lack of digital discipline
+  - Strong influence of trending platforms (TikTok, Snapchat)
 
----
+- *Poor sleep and mental health* associated with:
+  - Emotional stress from complex relationships
+  - Higher screen time disrupting sleep cycles
+  - Social comparison anxiety and constant connectivity
 
-### 2. Daily Usage vs Mental Health Score
-
-*Type:* Line Graph  
-*What it Shows:*  
-Tracks how mental health scores drop as daily usage increases.  
-*Key Insight:*  
-A clear *negative correlation: students who spend more time on social media report significantly **lower mental health scores* (from 9.0 to ~5.0).
+- *Academic impact (64.26%)* stems from:
+  - Time displacement (less study time)
+  - Decreased concentration and fatigue
 
 ---
 
-### 3. Sleep Hours by Relationship Status
+### 🔮 3. Predictive – What might happen next?
 
-*Type:* Clustered Column Chart  
-*What it Shows:*  
-Compares average sleep hours among students who are single, in a relationship, or in complicated situations.  
-*Key Insight:*  
-*Single students sleep the most (7.2 hrs)* while students in *complicated relationships sleep the least (5.3 hrs)*—likely due to stress and emotional instability.
+If current trends continue:
 
----
-
-### 4. Addiction Score by Academic Level
-
-*Type:* Bar Chart  
-*What it Shows:*  
-Average addiction scores for high school, undergraduate, and graduate students.  
-*Key Insight:*  
-*High school students show the highest addiction score (8.0)*, suggesting younger students are more vulnerable to digital influence.
+- 📉 *Mental health may continue to decline* among heavy users, especially high school students.
+- 🛌 *Sleep deprivation could worsen*, especially in emotionally stressful relationships or academic phases.
+- 📚 *Academic performance could decline further* unless intervention strategies are put in place.
+- ⚖ Gender differences in usage may remain marginal, meaning *intervention must be inclusive*.
 
 ---
 
-### 5. Sleep Hours by Academic Level
+### 💡 4. Prescriptive – What should we do?
 
-*Type:* Column Chart  
-*What it Shows:*  
-Average sleep hours grouped by education level.  
-*Key Insight:*  
-*Graduates sleep the most (7.0 hrs), while **high school students sleep the least (5.5 hrs)*, likely due to routines, stress, or digital distractions.
+Based on the insights, here are *recommendations*:
 
----
-
-### 6. Daily Usage by Gender
-
-*Type:* Bar Chart  
-*What it Shows:*  
-Comparison of average daily social media usage between male and female students.  
-*Key Insight:*  
-Social media usage is nearly equal among genders, with *females averaging 5.01 hours/day* and *males at 4.82 hours/day* — suggesting *universal dependence*.
+- 🧑‍🏫 *Educators*: Incorporate digital wellness education into school curricula, especially at the high school level.
+- 👨‍👩‍👧‍👦 *Parents/Guardians*: Monitor and limit screen time, especially before bedtime.
+- 🏫 *Universities*: Offer counseling for students navigating digital relationships and social pressures.
+- 📵 *Students*: Adopt "digital detox" hours and practice mindful usage habits.
+- 📈 *Policy Makers*: Consider digital wellbeing campaigns targeted at younger demographics.
 
 ---
 
-### 7. Conflicts from Social Media by Academic Level
+## 📌 Visual Story Highlights
 
-*Type:* Bar Chart  
-*What it Shows:*  
-The average number of conflicts students face due to social media, segmented by academic level.  
-*Key Insight:*  
-*High school students face more social media-related conflicts (3.74 avg)*, likely due to peer pressure and lack of emotional regulation.
+| Visual | Description | Key Insight |
+|--------|-------------|-------------|
+| *Bar Chart* | Addiction by Platform | WhatsApp, Snapchat, TikTok: Most addictive (7.4–7.5) |
+| *Line Graph* | Usage vs Mental Health | Mental health scores drop from 9.0 → ~5.0 as usage increases |
+| *Column Chart* | Sleep vs Relationship Status | Singles sleep most (7.2 hrs); complicated sleep least (5.3 hrs) |
+| *Bar Chart* | Addiction by Academic Level | High schoolers most vulnerable (8.0 score) |
+| *Column Chart* | Sleep by Academic Level | Graduates sleep most (7.0 hrs); high schoolers least (5.5 hrs) |
+| *Bar Chart* | Daily Usage by Gender | Female: 5.01 hrs/day; Male: 4.82 hrs/day (nearly equal) |
+| *Bar Chart* | Conflicts by Academic Level | High school students face most social media conflicts (3.74 avg) |
+
+
+
+---
+
+## 👤 Author
+
+*Ifeanyi Eric Okoronkwo*  
+📍 Enugu, Nigeria (Open to relocation)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/ifeanyieric)
+
+---
+
+## 💬 Feedback or Questions?
+
+Feel free to open an issue or reach out on LinkedIn. I welcome collaborations, discussions, and ideas to improve this project!
 
 ---
 
